@@ -1,0 +1,6 @@
+c:\users\joão gabriel\documents\visual studio 2013\Projects\FindThePhone\FindThePhone\bin\Debug\FindThePhone.exe.config
+c:\users\joão gabriel\documents\visual studio 2013\Projects\FindThePhone\FindThePhone\obj\Debug\FindThePhone.csprojResolveAssemblyReference.cache
+c:\users\joão gabriel\documents\visual studio 2013\Projects\FindThePhone\FindThePhone\bin\Debug\FindThePhone.exe
+c:\users\joão gabriel\documents\visual studio 2013\Projects\FindThePhone\FindThePhone\bin\Debug\FindThePhone.pdb
+c:\users\joão gabriel\documents\visual studio 2013\Projects\FindThePhone\FindThePhone\obj\Debug\FindThePhone.exe
+c:\users\joão gabriel\documents\visual studio 2013\Projects\FindThePhone\FindThePhone\obj\Debug\FindThePhone.pdb
